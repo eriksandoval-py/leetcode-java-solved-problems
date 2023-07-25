@@ -1,0 +1,10 @@
+## Ignore bin files in root
+*.bin
+
+
+
+
+
+
+## Ignore .vscode
+.vscode
