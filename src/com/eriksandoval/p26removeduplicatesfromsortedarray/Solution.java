@@ -24,7 +24,6 @@ public class Solution {
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] != nums[i - 1]) {
                 nums[pointer] = nums[i];
-                System.out.println(nums.toString());
                 pointer++;
             }
         }
