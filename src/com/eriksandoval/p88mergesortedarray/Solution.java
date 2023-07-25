@@ -11,7 +11,7 @@ package com.eriksandoval.p88mergesortedarray;
 
 public class Solution {
 
-    public void merge(int[] nums1, int[] nums2, int m, int n) {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
         // Merge method will take in two arrays (non-decreasing order) and merge them into
         // the first array. The length of the arrays may varry, as indicated by m and n.
         
